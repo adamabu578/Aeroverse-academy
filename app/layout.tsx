@@ -4,8 +4,8 @@ import { GeistMono } from 'geist/font/mono'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'Aeroverse-Academy',
+  description: 'Aeroverse-Academy',
   generator: 'v0.app',
 }
 
